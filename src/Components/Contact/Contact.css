@@ -1,0 +1,29 @@
+.contact {
+  background-color: #191924;
+  padding: 50px 0;
+  text-align: center;
+  color: #fff;
+}
+
+.contact h1 {
+  font-size: 36px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.contact p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.email {
+  font-size: 20px;
+  color: #ffc107;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.email:hover {
+  color: #daba5a;
+  text-decoration: underline;
+}

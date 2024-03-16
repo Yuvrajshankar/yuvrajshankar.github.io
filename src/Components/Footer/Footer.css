@@ -1,0 +1,42 @@
+.footer {
+  background-color: #1c1c27;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+
+.footer h1 {
+  font-size: 24px;
+  font-weight: 500;
+  color: #ffc107;
+}
+
+.links {
+  margin-top: 20px;
+}
+
+.links a {
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.links a:hover {
+  color: #ffc107;
+  text-decoration: underline;
+}
+
+.social__media {
+  margin-top: 20px;
+}
+
+.social__media .social {
+  color: white;
+  margin-right: 20px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.social__media .social:hover {
+  color: #ffc107;
+}

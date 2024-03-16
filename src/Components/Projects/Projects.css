@@ -1,0 +1,78 @@
+#projects {
+  background-color: #191924;
+  padding: 50px 0;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+#projects h1 {
+  color: #fff;
+  font-weight: 500;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.mern__projects {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.project {
+  text-align: center;
+  background-color: #252530;
+  padding: 20px;
+  border-radius: 10px;
+  width: 400px;
+  margin-bottom: 30px;
+}
+
+.project img {
+  width: 100%;
+  height: 180px;
+  background-color: #aaa;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.project h2 {
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-around;
+}
+
+.buttons button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.buttons .redirect {
+  background-color: #8e8b8b;
+  color: white;
+  transition: 0.5s;
+}
+
+.buttons .redirect:hover {
+  background-color: #000;
+}
+.buttons .redirect2 {
+  background-color: #9bba00;
+  color: white;
+}
+
+.buttons .redirect2:hover {
+  background-color: #d5ed5e;
+}
+
+@media screen and (max-width: 615px) {
+  #projects {
+    padding: 10px;
+  }
+}
