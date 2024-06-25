@@ -6,7 +6,7 @@ import logo from "../../pro.png";
 function HeroSection() {
 
     const handleButtonClick = () => {
-        window.open('https://drive.google.com/file/d/12LPB_m7oJBoRM7-ijj7tzI8Zb3WY4tO3/view?usp=drive_link', '_blank');
+        window.open('https://drive.google.com/file/d/1TlwN8kQCP377slnFWoYdlOluGoecgbHH/view?usp=sharing', '_blank');
     };
 
     return (

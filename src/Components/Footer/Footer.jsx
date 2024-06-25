@@ -10,12 +10,12 @@ function Footer() {
     };
 
     const Linked = () => {
-        window.open('https://www.linkedin.com/in/yuvraj-pandar-79aba325b/', '_blank');
+        window.open('https://www.linkedin.com/in/yuvraj-pandar', '_blank');
     };
 
     return (
         <div className='footer'>
-            <h1>Pandar Yuvraj</h1>
+            <h1>Pandar Yuvrajbhai</h1>
 
             <div className="links">
                 <a href="#about">About</a>
@@ -30,7 +30,7 @@ function Footer() {
             </div>
 
             <p>
-                &copy; 2024 Pandar Yuvraj. All rights reserved.
+                &copy; 2024 Pandar Yuvrajbhai. All rights reserved.
             </p>
         </div>
     )
