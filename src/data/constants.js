@@ -26,6 +26,11 @@ export const skills = [
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
+      {
+        name: "Flutter",
+        image:
+          "https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png",
+      },
     ],
   },
   {
@@ -81,41 +86,55 @@ export const skills = [
 export const projects = [
   {
     id: 1,
+    title: "Todos Flutter App",
+    image: "https://raw.githubusercontent.com/Yuvrajshankar/todos_flutter_firebase/refs/heads/main/todos.png",
+    github: "https://github.com/Yuvrajshankar/todos_flutter_firebase",
+    webapp: "https://github.com/Yuvrajshankar/todos_flutter_firebase",
+  },
+  {
+    id: 2,
+    title: "Chatly Flutter App",
+    image: "https://github.com/Yuvrajshankar/chatly_flutter/raw/main/chat.png?raw=true",
+    github: "https://github.com/Yuvrajshankar/chatly_flutter",
+    webapp: "https://radiant-cuchufli-f0c121.netlify.app/",
+  },
+  {
+    id: 3,
     title: "Todos",
     image: "https://github.com/Yuvrajshankar/Todos-Firebase/raw/main/screenshots/desk_2.png",
     github: "https://github.com/Yuvrajshankar/Todos-Firebase",
     webapp: "https://todos-6aaee.web.app/",
   },
   {
-    id: 2,
+    id: 4,
     title: "Twitter-Clone",
     image: "https://github.com/Yuvrajshankar/twitter-clone/raw/main/twitter-photo.png",
     github: "https://github.com/Yuvrajshankar/twitter-clone",
     webapp: "https://twitter-clone-r0zz.onrender.com/",
   },
   {
-    id: 3,
+    id: 5,
     title: "Blogify",
     image: "https://github.com/Yuvrajshankar/Blogify/raw/main/screenshots/profile.jpg",
     github: "https://github.com/Yuvrajshankar/Blogify",
     webapp: "https://blogify-oki7.onrender.com",
   },
   {
-    id: 4,
+    id: 6,
     title: "Chatly",
     image: "https://github.com/Yuvrajshankar/Chatly/raw/main/screenshots/home.jpg",
     github: "https://github.com/Yuvrajshankar/Chatly",
     webapp: "https://chatly-u4ve.onrender.com",
   },
   {
-    id: 5,
+    id: 7,
     title: "Social",
     image: "https://github.com/Yuvrajshankar/Social/raw/main/screenshots/home.png",
     github: "https://github.com/Yuvrajshankar/Social",
     webapp: "https://social-3jkt.onrender.com",
   },
   {
-    id: 6,
+    id: 8,
     title: "Cart-B",
     image: "https://github.com/Yuvrajshankar/Cart-B/raw/main/screenshots/admin-dashboard.png",
     github: "https://github.com/Yuvrajshankar/Cart-B",

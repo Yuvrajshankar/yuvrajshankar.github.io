@@ -54,7 +54,7 @@
 }
 
 .buttons .redirect {
-  background-color: #8e8b8b;
+  background-color: #222a35;
   color: white;
   transition: 0.5s;
 }
@@ -63,12 +63,12 @@
   background-color: #000;
 }
 .buttons .redirect2 {
-  background-color: #9bba00;
+  background-color: #ffca28;
   color: white;
 }
 
 .buttons .redirect2:hover {
-  background-color: #d5ed5e;
+  background-color: #a67608;
 }
 
 @media screen and (max-width: 615px) {
