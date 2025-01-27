@@ -22,7 +22,7 @@ function HeroSection() {
     }, []);
 
     const handleButtonClick = () => {
-        window.open('https://docs.google.com/document/d/1gciGtMcy0U7DEWtRuqUA2Zaf7oJwcPCcH-r5dgNAcUw/edit?usp=drive_link', '_blank');
+        window.open('https://drive.google.com/file/d/1xwCtNctCKECLx2Gj1YIxQ10xjo4XyC9Z/view?usp=drive_link', '_blank');
     };
 
     return (
